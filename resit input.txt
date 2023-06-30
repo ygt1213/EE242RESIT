@@ -1,0 +1,2 @@
+inputPin=75
+outputPin=10
